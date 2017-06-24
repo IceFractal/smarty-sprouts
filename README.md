@@ -3,6 +3,8 @@
 > Remember your trips!
 > Drop a pin where you tripped and select your photos so you can see them later at that pin.
 
+![Trip Pin Example](/trip-pin.png?raw=true)
+
 ## Team
 
   - __Product Owner__: Yoshi Oritatsu
